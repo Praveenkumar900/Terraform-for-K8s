@@ -1,0 +1,6 @@
+#Master
+scp -i /c/Users/pkme4/Downloads/refer.pem.pem /c/Users/pkme4/Documents/K8sCluster/k8sMaster/main.tf ubuntu@ec2-54-158-38-162.compute-1.amazonaws.com:/home/ubuntu/
+main.tf  
+
+#Worker
+scp -i /c/Users/pkme4/Downloads/refer.pem.pem /c/Users/pkme4/Documents/K8sCluster/k8sworker/main.tf ubuntu@ec2-54-158-38-162.compute-1.amazonaws.com:/home/ubuntu/worker
