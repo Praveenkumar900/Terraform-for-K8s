@@ -1,0 +1,8 @@
+#Generate Access key & Secret access key in AWS before doing this
+
+
+aws configure
+AWS Access Key ID [None]: AKIAXYKJRT5ZUYJDMVNZ
+AWS Secret Access Key [None]: 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
+Default region name [None]: us-east-1
+Default output format [None]: json
